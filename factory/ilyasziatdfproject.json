@@ -1,0 +1,9 @@
+{
+	"name": "ilyasziatdfproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "552eb0e4-433d-4228-a860-9e62ea78c8d3",
+		"tenantId": "7da169d3-0a8b-4263-a8c6-c3029c7b254d"
+	}
+}
